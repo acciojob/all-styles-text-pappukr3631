@@ -3,12 +3,13 @@
 .main {
 	width: 200px;
 	background-color: rgb(128, 0, 128);
+	border-left: 5px solid green;
 }
 #heading {
 /* 	width: 200px; */
 /* 	background-color: green; */
-	border: 5px;
-	border-left: solid green;
+/* 	border: 5px; */
+/* 	border-left: 5px solid green; */
 	padding: 10px;
 	font-size: 20px;
 	color: white;
